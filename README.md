@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 class="title" align="center">*/Hello World\*</h1>
+<p class="introduction" align="center">( My first Github repo ;] )</p>
 
-<!--
-**iAyRex/iAyRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💎**Don't forget to check out my [Discord](https://discord.gg/jxTDYJ7Sjy) server !**
+<!-- And don't open this video https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
+### **Bio:**
 
-Here are some ideas to get you started:
+```
+- Name: Aras aka Ayrex
+- Age: 16 YO
+- From: Iran Tehran
+- Pronouns: He/Him
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Tools:**
+```
+> [Python]
+> [C#]
+> [VsCode]
+> [PyCharm]
+> [Rider]
+> [FireFox] ( I hate Chrome fsr.. )
+> [Google] 
+```
