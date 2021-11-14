@@ -20,5 +20,5 @@
 > [PyCharm]
 > [Rider]
 > [FireFox] ( I hate Chrome fsr.. )
-> [Google] 
+> [Google] ;] 
 ```
