@@ -1,15 +1,15 @@
 <h1 class="title" align="center">*/Hello World\*</h1>
 <p class="introduction" align="center">( My first Github repo ;] )</p>
 
-💎**Don't forget to check out my [Discord](https://discord.gg/jxTDYJ7Sjy) server !**
+💎**Check out my [Discord](https://discord.gg/jxTDYJ7Sjy) server !**
 <!-- And don't open this video https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
 ### **Bio:**
 
 ```
-- Name: Aras aka Ayrex
+- Name: Aras Aka AyRex, Vyek
 - Age: 16 YO
 - From: Iran Tehran
-- Pronouns: He/Him
+- MBTI: ENTP-A
 ```
 
 ### **Tools:**
@@ -18,7 +18,7 @@
 > [C#]
 > [VsCode]
 > [PyCharm]
-> [Rider]
+> [Visual Studio]
 > [FireFox] ( I hate Chrome fsr.. )
 > [Google] ;] 
 ```
