@@ -7,7 +7,7 @@
 
 ```
 - Name: Aras Aka AyRex, Vyek
-- Age: 16 YO
+- Age: 17 YO
 - From: Iran Tehran
 - MBTI: ENTP-A
 ```
